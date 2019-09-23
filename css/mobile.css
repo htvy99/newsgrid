@@ -1,0 +1,16 @@
+/* Ipad */
+@media (max-width: 768px) {
+  #showcase {
+    padding: 2rem 2rem;
+  }
+
+  #showcase .showcaseContainer {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+  }
+
+  #homeArticles .articleContainer {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+}
